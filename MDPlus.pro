@@ -1,2 +1,4 @@
 QT += quick
-CONFI
+CONFIG += c++11
+
+# The following define 
