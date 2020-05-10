@@ -7,4 +7,4 @@ CONFIG += c++11
 # deprecated API to know how to port your code away from it.
 DEFINES += QT_DEPRECATED_WARNINGS
 
-# You can also make your c
+# You can also make your code fail to compile if it uses deprecated A
