@@ -9,4 +9,4 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 # You can also make your code fail to compile if it uses deprecated APIs.
 # In order to do so, uncomment the following line.
-# Yo
+# You can also select to disable deprecated APIs
