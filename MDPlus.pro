@@ -18,4 +18,4 @@ SOURCES += \
 
 RESOURCES += qml.qrc
 
-# A
+# Additional import path used to r
