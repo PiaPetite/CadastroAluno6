@@ -14,4 +14,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-    syn
+    syntaxhighlighter.cpp
+
+RESOURCES += qml.qrc
+
+# A
