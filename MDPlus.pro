@@ -18,4 +18,4 @@ SOURCES += \
 
 RESOURCES += qml.qrc
 
-# Additional import path used to r
+# Additional import path used to resolve QML modules in Qt Creator'
