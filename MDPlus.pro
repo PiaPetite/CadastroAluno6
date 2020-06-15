@@ -22,4 +22,6 @@ RESOURCES += qml.qrc
 QML_IMPORT_PATH =
 
 # Additional import path used to resolve QML modules just for Qt Quick Designer
-QML_DESIGNE
+QML_DESIGNER_IMPORT_PATH =
+
+# Default rules for deploy
