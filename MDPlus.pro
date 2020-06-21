@@ -26,4 +26,4 @@ QML_DESIGNER_IMPORT_PATH =
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
-else: unix:!android: t
+else: unix:!android: target.path = /opt/$${TARGET
