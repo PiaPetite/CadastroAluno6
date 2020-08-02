@@ -7,4 +7,5 @@
   <value type="QByteArray">{0ccaf30e-7139-442e-912c-6706749b1c5e}</value>
  </data>
  <data>
-  <variable>ProjectExplorer.Project.ActiveT
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">
