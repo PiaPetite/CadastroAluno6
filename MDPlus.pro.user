@@ -12,4 +12,5 @@
  </data>
  <data>
   <variable>ProjectExplorer.Project.EditorSettings</variable>
-  <valuemap type="QV
+  <valuemap type="QVariantMap">
+   <value type="bool" key=
