@@ -13,4 +13,4 @@
  <data>
   <variable>ProjectExplorer.Project.EditorSettings</variable>
   <valuemap type="QVariantMap">
-   <value type="bool" key=
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</val
