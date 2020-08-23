@@ -14,4 +14,4 @@
   <variable>ProjectExplorer.Project.EditorSettings</variable>
   <valuemap type="QVariantMap">
    <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
-   <value type="bool" key="EditorConfigurati
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</va
