@@ -16,4 +16,5 @@
    <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
    <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
    <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
-   <valuemap type="QVariantMap" 
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+   
