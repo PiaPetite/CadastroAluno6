@@ -17,4 +17,5 @@
    <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
    <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
    <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
-    <value type="QString" key="language"
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" 
