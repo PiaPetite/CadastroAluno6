@@ -18,4 +18,5 @@
    <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
    <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
     <value type="QString" key="language">Cpp</value>
-    <valuemap type="QVariantMap" 
+    <valuemap type="QVariantMap" key="value">
+     <val
