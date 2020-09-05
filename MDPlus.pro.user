@@ -19,4 +19,4 @@
    <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
     <value type="QString" key="language">Cpp</value>
     <valuemap type="QVariantMap" key="value">
-     <val
+     <value type="QByteArray" key="CurrentPreferences">Cpp
