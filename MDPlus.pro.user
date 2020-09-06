@@ -23,4 +23,5 @@
     </valuemap>
    </valuemap>
    <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
-    <value type="QString"
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap 
