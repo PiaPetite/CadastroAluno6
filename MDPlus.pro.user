@@ -22,4 +22,5 @@
      <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
     </valuemap>
    </valuemap>
-   <valuemap type="QVariantMap" key="EditorConfiguration.Code
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString"
