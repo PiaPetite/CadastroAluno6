@@ -25,4 +25,4 @@
    <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
     <value type="QString" key="language">QmlJS</value>
     <valuemap type="QVariantMap" key="value">
-     <value type="QByteArray" k
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</valu
