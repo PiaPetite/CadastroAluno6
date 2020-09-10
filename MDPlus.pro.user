@@ -27,4 +27,5 @@
     <valuemap type="QVariantMap" key="value">
      <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
     </valuemap>
-   </va
+   </valuemap>
+   <value type="int" ke
