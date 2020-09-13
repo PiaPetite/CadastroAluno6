@@ -32,4 +32,5 @@
    <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
    <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
    <value type="int" key="EditorConfiguration.IndentSize">4</value>
-   <value type="bool" key="EditorConfiguration.KeyboardTooltips">
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int"
