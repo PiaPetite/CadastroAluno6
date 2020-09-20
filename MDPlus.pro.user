@@ -34,4 +34,5 @@
    <value type="int" key="EditorConfiguration.IndentSize">4</value>
    <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
    <value type="int" key="EditorConfiguration.MarginColumn">80</value>
-   <value type="bool" key="EditorConfiguration.MouseHiding">true</val
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="Ed
