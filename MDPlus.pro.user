@@ -35,4 +35,4 @@
    <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
    <value type="int" key="EditorConfiguration.MarginColumn">80</value>
    <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
-   <value type="bool" key="Ed
+   <value type="bool" key="EditorConfiguration.MouseNavigation">tr
