@@ -38,4 +38,4 @@
    <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
    <value type="int" key="EditorConfiguration.PaddingMode">1</value>
    <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
-   <value type="bool" key="E
+   <value type="bool" key="EditorConfiguration.ShowMargin">false
