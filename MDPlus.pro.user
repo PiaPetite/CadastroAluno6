@@ -42,4 +42,5 @@
    <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
    <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
    <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
-   <value type="int" key="EditorConfiguration.TabKeyBe
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" 
