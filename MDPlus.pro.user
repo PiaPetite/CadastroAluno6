@@ -43,4 +43,5 @@
    <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
    <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
    <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
-   <value type="int" 
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+ 
