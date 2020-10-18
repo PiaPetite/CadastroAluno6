@@ -46,4 +46,4 @@
    <value type="int" key="EditorConfiguration.TabSize">8</value>
    <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
    <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
-   <value type="bool" key="Edi
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true
