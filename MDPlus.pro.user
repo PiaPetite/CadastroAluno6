@@ -48,4 +48,4 @@
    <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
    <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
    <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
-   <value type="
+   <value type="bool" key="EditorConfiguration.cleanWhite
