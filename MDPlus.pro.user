@@ -49,4 +49,4 @@
    <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
    <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
    <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
-   <value type
+   <value type="bool" key="EditorConfiguration
