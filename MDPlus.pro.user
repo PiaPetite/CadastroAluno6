@@ -54,4 +54,5 @@
  </data>
  <data>
   <variable>ProjectExplorer.Project.PluginSettings</variable>
-  <valuemap ty
+  <valuemap type="QVariantMap">
+   <valuelist ty
