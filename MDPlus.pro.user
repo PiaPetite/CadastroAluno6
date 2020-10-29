@@ -55,4 +55,4 @@
  <data>
   <variable>ProjectExplorer.Project.PluginSettings</variable>
   <valuemap type="QVariantMap">
-   <valuelist ty
+   <valuelist type="QVariantList" key="Clang
