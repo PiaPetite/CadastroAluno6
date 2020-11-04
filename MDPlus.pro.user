@@ -61,4 +61,5 @@
  </data>
  <data>
   <variable>ProjectExplorer.Project.Target.0</variable>
-  <valuemap 
+  <valuemap type="QVariantMap">
+   <value ty
