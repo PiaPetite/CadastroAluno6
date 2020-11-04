@@ -59,4 +59,5 @@
    <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
   </valuemap>
  </data>
- <
+ <data>
+  <variable>ProjectExplorer
