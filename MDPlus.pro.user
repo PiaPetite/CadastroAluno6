@@ -62,4 +62,4 @@
  <data>
   <variable>ProjectExplorer.Project.Target.0</variable>
   <valuemap type="QVariantMap">
-   <value ty
+   <value type="QString" key="ProjectExplorer.ProjectConfi
