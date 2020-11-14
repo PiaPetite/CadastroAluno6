@@ -67,4 +67,5 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{accdeed3-f0f9-4e9e-8968-12ead64b1218}</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
-   <value type="int" key="ProjectExplorer.Target.A
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <value
