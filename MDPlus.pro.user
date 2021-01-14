@@ -98,4 +98,4 @@
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
     </valuemap>
-    <valuemap type="QVariantM
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration
