@@ -100,4 +100,5 @@
     </valuemap>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
-      <value type="bool" key="ProjectExplorer.Buil
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+    
