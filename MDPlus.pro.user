@@ -124,4 +124,4 @@
     <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">2</value>
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
-   <valuemap type="QVariantMap"
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfigura
