@@ -136,4 +136,6 @@
       <value type="QString" key="QtProjectManager.QMakeBuildStep.QMakeArguments"></value>
       <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
       <value type="bool" key="QtProjectManager.QMakeBuildStep.SeparateDebugInfo">false</value>
-      <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">tr
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">true</value>
+     </valuemap>
+     <va
