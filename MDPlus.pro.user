@@ -138,4 +138,4 @@
       <value type="bool" key="QtProjectManager.QMakeBuildStep.SeparateDebugInfo">false</value>
       <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">true</value>
      </valuemap>
-     <va
+     <valuemap type="QVariantMap" key="Proj
