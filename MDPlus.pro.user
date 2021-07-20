@@ -181,4 +181,4 @@
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/max/QtProj
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/max/QtProject/build-MDPlus-Desktop-Profile
