@@ -223,4 +223,4 @@
       <value type="bool" key="Qt4ProjectManager.MakeStep.OverrideMakeflags">false</value>
      </valuemap>
      <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
-     <value type="QString"
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDispl
