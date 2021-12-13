@@ -233,4 +233,5 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Profile</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Profile</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
-    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+    <value ty
