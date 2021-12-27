@@ -239,4 +239,5 @@
    <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">3</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.DeployConfiguration.0">
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
-     <value type="int" key="ProjectExplorer.Buil
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QSt
