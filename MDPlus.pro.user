@@ -244,4 +244,4 @@
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Deploy</value>
     </valuemap>
-    <va
+    <value type="int" key="ProjectExplorer.BuildConfigurati
