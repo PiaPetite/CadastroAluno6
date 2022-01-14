@@ -246,4 +246,4 @@
     </valuemap>
     <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">1</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Deploy Configuration</value>
-    <value type="QStr
+    <value type="QString" key="ProjectExplorer.ProjectConfig
