@@ -255,4 +255,5 @@
     <value type="bool" key="Analyzer.QmlProfiler.AggregateTraces">false</value>
     <value type="bool" key="Analyzer.QmlProfiler.FlushEnabled">false</value>
     <value type="uint" key="Analyzer.QmlProfiler.FlushInterval">1000</value>
-    <value type="QString" key="Analyzer.QmlProfi
+    <value type="QString" key="Analyzer.QmlProfiler.LastTraceFile"></value>
+    <va
