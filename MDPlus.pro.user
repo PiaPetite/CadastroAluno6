@@ -263,4 +263,4 @@
     <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableBranchSim">false</value>
     <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableCacheSim">false</value>
     <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableEventToolTips">true</value>
-    <va
+    <value type="double" key="Analyzer.V
