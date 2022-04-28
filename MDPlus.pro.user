@@ -277,4 +277,6 @@
     <valuelist type="QVariantList" key="Analyzer.Valgrind.VisibleErrorKinds">
      <value type="int">0</value>
      <value type="int">1</value>
-     <value type="int">2</value
+     <value type="int">2</value>
+     <value type="int">3</value>
+     <val
