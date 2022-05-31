@@ -296,4 +296,5 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">MDPlus</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/max/QtProject/MDPlusPlus/MDPlus.pro</value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">MDPlus.pro</value>
+    <value ty
