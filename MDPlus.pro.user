@@ -298,4 +298,5 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/max/QtProject/MDPlusPlus/MDPlus.pro</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">MDPlus.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
-    <value type="uint" key="RunConfiguration.QmlDebugSe
+    <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
+    <value type="boo
