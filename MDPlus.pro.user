@@ -302,4 +302,5 @@
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
-    <value type="bool" key="RunConfiguration.UseMultiProcess">f
+    <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
+    <value type="bool" k
