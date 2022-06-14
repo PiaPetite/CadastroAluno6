@@ -305,4 +305,5 @@
     <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirector
+    <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
+    <value type="QStrin
