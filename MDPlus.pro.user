@@ -306,4 +306,4 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.Worki
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/max/Q
