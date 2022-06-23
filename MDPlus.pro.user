@@ -308,4 +308,4 @@
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/max/QtProject/build-MDPlus-Desktop-Debug</value>
    </valuemap>
-   <value type="in
+   <value type="int" key="ProjectExplorer.Target.RunConfiguration
