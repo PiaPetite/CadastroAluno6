@@ -307,3 +307,5 @@
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/max/QtProject/build-MDPlus-Desktop-Debug</value>
+   </valuemap>
+   <value type="in
