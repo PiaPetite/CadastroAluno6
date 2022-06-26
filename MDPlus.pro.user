@@ -316,4 +316,5 @@
   <value type="int">1</value>
  </data>
  <data>
-  <variable>ProjectExplorer.Project.Updater.FileVersion</
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">2
