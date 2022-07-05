@@ -1,3 +1,5 @@
 # MD++ (Markdown++)
 
-## Markdo
+## Markdown Plus
+
+A Markdown Editor with some 
