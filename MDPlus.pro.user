@@ -321,4 +321,6 @@
  </data>
  <data>
   <variable>Version</variable>
-  <value 
+  <value type="int">20</value>
+ </data>
+</qtcre
