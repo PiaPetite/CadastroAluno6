@@ -2,4 +2,4 @@
 
 ## Markdown Plus
 
-A Markdown Editor with some 
+A Markdown Editor with some new feature to support RTL langu
