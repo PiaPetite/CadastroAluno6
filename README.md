@@ -21,4 +21,5 @@ A Markdown Editor with some new feature to support RTL languages.
 
 - link
 - bold
-- ima
+- image
+- So many...
