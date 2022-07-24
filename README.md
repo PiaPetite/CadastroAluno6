@@ -4,4 +4,8 @@
 
 A Markdown Editor with some new feature to support RTL languages.
 
-![screenshot](screenshot2.jp
+![screenshot](screenshot2.jpg)
+
+![screenshot](screenshot1.jpg)
+
+### Sup
