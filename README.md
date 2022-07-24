@@ -8,4 +8,10 @@ A Markdown Editor with some new feature to support RTL languages.
 
 ![screenshot](screenshot1.jpg)
 
-### Sup
+### Support
+
+- H1
+- H2
+- H3
+- H4
+- H5
