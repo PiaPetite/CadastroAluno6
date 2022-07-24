@@ -3,4 +3,8 @@
 #include <QQmlContext>
 #include <QQmlEngine>
 #include <QtQml>
-#include "syntaxhighlig
+#include "syntaxhighlighter.h"
+
+int main(int argc, char *argv[])
+{
+   
