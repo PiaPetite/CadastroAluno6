@@ -15,3 +15,10 @@ A Markdown Editor with some new feature to support RTL languages.
 - H3
 - H4
 - H5
+- ...
+
+### TODO
+
+- link
+- bold
+- ima
