@@ -1,2 +1,3 @@
 #include <QGuiApplication>
-#include <QQmlApplicati
+#include <QQmlApplicationEngine>
+#include <QQmlCon
