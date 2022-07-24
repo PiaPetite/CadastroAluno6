@@ -2,4 +2,5 @@
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QQmlEngine>
-#inclu
+#include <QtQml>
+#include "syntaxhighlig
