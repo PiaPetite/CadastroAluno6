@@ -11,4 +11,5 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
     QQmlApplicationEngine engine;
     qmlRegisterType<SyntaxHighlighter>("SyntaxHighlighter", 1, 0, "SyntaxHighlighter");
-    engine.load(QUrl(QSt
+    engine.load(QUrl(QStringLiteral("qrc:/main.qml")));
+    
