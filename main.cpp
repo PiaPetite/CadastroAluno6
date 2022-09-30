@@ -13,4 +13,6 @@ int main(int argc, char *argv[])
     qmlRegisterType<SyntaxHighlighter>("SyntaxHighlighter", 1, 0, "SyntaxHighlighter");
     engine.load(QUrl(QStringLiteral("qrc:/main.qml")));
     if (engine.rootObjects().isEmpty())
-  
+        return -1;
+
+    return 
