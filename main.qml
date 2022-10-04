@@ -37,3 +37,8 @@ ApplicationWindow {
                 text: "#Hello\n# Hi!\n\nHow are you?\n"
                 onLineCountChanged: windows.update()
                 onHeightChanged: windows.update()
+                onCursorPositionChanged: windows.update()
+                //onEditingFinished: update()
+            }
+        }
+}
