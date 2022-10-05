@@ -1,1 +1,2 @@
-#include "
+#include "syntaxhighlighter.h"
+#include <QString
