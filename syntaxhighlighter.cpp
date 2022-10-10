@@ -1,4 +1,6 @@
 #include "syntaxhighlighter.h"
 #include <QString>
 #include <QObject>
-#include <QDe
+#include <QDebug>
+
+//Q_INVOKABLE QString SyntaxHighlighter:
