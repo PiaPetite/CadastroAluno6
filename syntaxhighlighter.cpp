@@ -3,4 +3,6 @@
 #include <QObject>
 #include <QDebug>
 
-//Q_INVOKABLE QString SyntaxHighlighter::replace(QString format, QString& source, void (*function)(QString &sourc
+//Q_INVOKABLE QString SyntaxHighlighter::replace(QString format, QString& source, void (*function)(QString &source, int seed, QRegExp regex))
+//{
+//  
