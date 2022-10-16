@@ -8,4 +8,4 @@
 //    QRegExp reg(format);
 //    reg.setMinimal(true);
 //    int s = -1;
-//    while(
+//    while((s = reg.indexIn(source, s+1))>=0){
