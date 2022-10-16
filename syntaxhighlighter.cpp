@@ -9,3 +9,5 @@
 //    reg.setMinimal(true);
 //    int s = -1;
 //    while((s = reg.indexIn(source, s+1))>=0){
+////        function(source, s, reg);
+/
