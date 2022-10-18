@@ -10,4 +10,5 @@
 //    int s = -1;
 //    while((s = reg.indexIn(source, s+1))>=0){
 ////        function(source, s, reg);
-//        source.replace(s, reg.cap(0).leng
+//        source.replace(s, reg.cap(0).length(), reg.cap(1).toUpper());
+//      
