@@ -13,3 +13,7 @@
 //        source.replace(s, reg.cap(0).length(), reg.cap(1).toUpper());
 //        s+= reg.cap(1).length();
 //    }
+//    return source;
+//}
+
+//QString Sy
