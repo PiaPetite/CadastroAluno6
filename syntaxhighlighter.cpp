@@ -16,4 +16,4 @@
 //    return source;
 //}
 
-//QString Sy
+//QString SyntaxHighlighter::test(QString &source, 
