@@ -16,4 +16,6 @@
 //    return source;
 //}
 
-//QString SyntaxHighlighter::test(QString &source, 
+//QString SyntaxHighlighter::test(QString &source, int seed, QRegExp regex)
+//{
+//    s
