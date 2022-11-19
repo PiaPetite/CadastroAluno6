@@ -18,4 +18,5 @@
 
 //QString SyntaxHighlighter::test(QString &source, int seed, QRegExp regex)
 //{
-//    source.replace(seed, regex.cap(0).lengt
+//    source.replace(seed, regex.cap(0).length(), regex.cap(1).toLower());
+//}
