@@ -21,4 +21,7 @@
 //    source.replace(seed, regex.cap(0).length(), regex.cap(1).toLower());
 //}
 
-Q_INVOKABLE QString SyntaxHighlighter::a
+Q_INVOKABLE QString SyntaxHighlighter::analyse(QString source)
+{
+    int s;
+    QReg
