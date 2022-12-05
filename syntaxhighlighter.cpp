@@ -24,4 +24,5 @@
 Q_INVOKABLE QString SyntaxHighlighter::analyse(QString source)
 {
     int s;
-    QReg
+    QRegExp reg;
+    REPLACE("\\#\\#\\#\\#\\#( |)(
