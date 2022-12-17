@@ -28,4 +28,4 @@ Q_INVOKABLE QString SyntaxHighlighter::analyse(QString source)
     REPLACE("\\#\\#\\#\\#\\#( |)([^\n]+)", "<h5>"+reg.cap(2)+"</h5>", ("<h5>"+reg.cap(2)+"</h5>").length());
     REPLACE("\\#\\#\\#\\#( |)([^\n]+)", "<h4>"+reg.cap(2)+"</h4>", ("<h4>"+reg.cap(2)+"</h4>").length());
     REPLACE("\\#\\#\\#( |)([^\n]+)", "<h3>"+reg.cap(2)+"</h3>", ("<h3>"+reg.cap(2)+"</h3>").length());
-    REPLACE("\\#\\#( |)([^\n
+    REPLACE("\\#\\#( |)([^\n]+)", "<h2>"+reg.cap(2)+"</h2>", ("<h2>"+re
