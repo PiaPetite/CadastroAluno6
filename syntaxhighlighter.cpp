@@ -31,4 +31,5 @@ Q_INVOKABLE QString SyntaxHighlighter::analyse(QString source)
     REPLACE("\\#\\#( |)([^\n]+)", "<h2>"+reg.cap(2)+"</h2>", ("<h2>"+reg.cap(2)+"</h2>").length());
     REPLACE("\\#( |)([^\n]+)", "<h1>"+reg.cap(2)+"</h1>", ("<h1>"+reg.cap(2)+"</h1>").length());
     REPLACE("([\n]{2,})", "<br>", 4);
-    REPLACE("([\n
+    REPLACE("([\n])", " ", 1);
+    source="<st
