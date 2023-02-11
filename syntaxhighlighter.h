@@ -10,3 +10,6 @@
         source.replace(s, reg.cap(0).length(), rep);\
         s+= len;\
     }\
+
+//    reg.setMinimal(true);\
+//    source.
