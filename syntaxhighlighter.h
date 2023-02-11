@@ -4,4 +4,6 @@
 #include <QObject>
 
 #define REPLACE(format, rep, len)\
-    reg=QRegE
+    reg=QRegExp(format);\
+    s = -1;\
+    while((s 
