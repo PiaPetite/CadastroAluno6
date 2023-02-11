@@ -14,4 +14,5 @@
 //    reg.setMinimal(true);\
 //    source.replace(reg, rep);
 
-//#define 
+//#define REPLACE(format, rep, len)\
+//    reg=Q
