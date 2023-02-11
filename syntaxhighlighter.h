@@ -3,4 +3,5 @@
 #include <QString>
 #include <QObject>
 
-#define
+#define REPLACE(format, rep, len)\
+    reg=QRegE
