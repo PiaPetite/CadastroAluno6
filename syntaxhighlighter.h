@@ -7,4 +7,6 @@
     reg=QRegExp(format);\
     s = -1;\
     while((s = reg.indexIn(source, s+1))>=0){\
-        source.replace(s, reg.cap(0).length(
+        source.replace(s, reg.cap(0).length(), rep);\
+        s+= len;\
+    }\
