@@ -6,4 +6,4 @@
 #define REPLACE(format, rep, len)\
     reg=QRegExp(format);\
     s = -1;\
-    while((s 
+    while((s = reg.indexIn(source, s+1))>=0){\
