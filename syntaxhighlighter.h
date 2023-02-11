@@ -1,3 +1,6 @@
 #ifndef SYNTAXHIGHLIGHTER_H
 #define SYNTAXHIGHLIGHTER_H
-#inc
+#include <QString>
+#include <QObject>
+
+#define
