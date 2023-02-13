@@ -15,4 +15,5 @@
 //    source.replace(reg, rep);
 
 //#define REPLACE(format, rep, len)\
-//    reg=Q
+//    reg=QRegExp(format);\
+//    re
