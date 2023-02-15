@@ -16,4 +16,6 @@
 
 //#define REPLACE(format, rep, len)\
 //    reg=QRegExp(format);\
-//    re
+//    reg.setMinimal(true);\
+//    s = -1;\
+// 
