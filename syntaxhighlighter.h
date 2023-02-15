@@ -18,4 +18,5 @@
 //    reg=QRegExp(format);\
 //    reg.setMinimal(true);\
 //    s = -1;\
-//    while((s = reg.indexIn(source, s+
+//    while((s = reg.indexIn(source, s+1))>=0){\
+//        source.replace(s, reg.
