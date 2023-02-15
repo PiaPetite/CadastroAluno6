@@ -18,4 +18,4 @@
 //    reg=QRegExp(format);\
 //    reg.setMinimal(true);\
 //    s = -1;\
-// 
+//    while((s = reg.indexIn(source, s+
