@@ -23,4 +23,6 @@
 //        s+= len;\
 //    }
 
-class SyntaxHi
+class SyntaxHighlighter : public QObject
+{
+  Q_
