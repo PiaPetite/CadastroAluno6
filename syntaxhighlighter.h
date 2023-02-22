@@ -25,4 +25,6 @@
 
 class SyntaxHighlighter : public QObject
 {
-  Q_
+  Q_OBJECT
+public:
+    Q_INVOKABLE QString 
