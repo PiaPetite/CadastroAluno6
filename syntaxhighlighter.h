@@ -30,4 +30,4 @@ public:
     Q_INVOKABLE QString analyse(QString source);
 
 private:
-// 
+//    Q_INVOKABLE QString replace(QString
