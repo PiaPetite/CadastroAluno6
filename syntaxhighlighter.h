@@ -30,4 +30,4 @@ public:
     Q_INVOKABLE QString analyse(QString source);
 
 private:
-//    Q_INVOKABLE QString replace(QString format, QString& source, void (*functi
+//    Q_INVOKABLE QString replace(QString format, QString& source, void (*function)(QString &source, int seed, QRegExp re
