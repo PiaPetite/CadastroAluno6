@@ -31,4 +31,7 @@ public:
 
 private:
 //    Q_INVOKABLE QString replace(QString format, QString& source, void (*function)(QString &source, int seed, QRegExp regex));
-//    Q_INVOKABLE QString test(QString &source, int seed, QRegExp rege
+//    Q_INVOKABLE QString test(QString &source, int seed, QRegExp regex);
+};
+
+#endif // SYNTAXHIGHLIGHTER_H
